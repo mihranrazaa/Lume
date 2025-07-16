@@ -82,4 +82,17 @@ created at: "2025-07-13"
 - **Total 15Hrs+**
 
 ---
+**JULY 15-16**
+
+- Plan is to divide the code in 5 main classes, Screen control, Input handle, FIle manager and bookreader, i'm focusing on making it work firstly after core features i can improve upon...
+- Started by COngfiguring GPIO Pins and SPI communication also i'm also thinking of making a installation script like i did in knobble, if i got some time after this it's easy anyways..
+- Then i intialized eink display and crated a simple menu interface where selection will be highlighted.
+- For input handling i did normal setup i also added debouncing to prevent multiple triggers. Mapped GPIO pins to event names
+- then For book management, created function to refresh, list, and to get file path, to make my life easier.
+-  then i started working on TExt processing and text pagination process, deinfed so that text can be displayed on the screen properly,
+-  Then after all this i created another class which will work like orchestrator, tieing everything together, The main app has two main stated, main-while browsing file and reading- while reading books
+- The application flow will be like first it will intialize display setup pins, and show menu
+- then it will scan book directory, list them, and will handle navigation. After selectinig book it will paginate the text, nd resume from bookmark and from then it will handle page navigation update display, and save bookmark, currently i have only added .txt support but easily it can be extended because of the lib support python have "Thank God ToT" anyways this is the overall summarized process of me creating my own ebook reader i'm hella sleepy now after this i will add readme and will make it ready to submit....
+
+**Total 9Hrs+**
 
