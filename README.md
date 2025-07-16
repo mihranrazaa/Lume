@@ -97,7 +97,7 @@ The step files for the keyboard are available in the CAD folder and also in the 
 ## Extra Stuff
 
 ### Gratitude
-- Thanks to Hackclub and Hackpad for making me do this brilliant project, More coming :).
+- Thanks to Hackclub for making me do this brilliant project, More coming :).
 - Thanks to my potato for helping me till the end.
 - Thanks to myself for completing the project and not getting distracted with another project.
 - And Thank you for Reading?
