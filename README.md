@@ -84,8 +84,9 @@ The step files for the keyboard are available in the CAD folder and also in the 
 | 5D Joystick           | 1        | 0.58USD     | [Available](https://hubtronics.in/5d-rocker-joystick?search=joystick)                                                                                                                     |
 | Tactile push buttons  | 4        | 0.28USD     |                                                                                                                                                                                           |
 | PCB                   |          | approx10USD |                                                                                                                                                                                           |
+| UPS                   | 1        | 27USD       | [Available](https://hubtronics.in/ups-hat-c?search=ups%20hat%20)                                                                                                                          |
 
-**Total ::  89-100USD**
+**Total ::  110-130USD**
 
 ---
 ## Next Update
