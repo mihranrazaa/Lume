@@ -33,7 +33,15 @@ created at: "2025-07-13"
 
 - PCB DONEEE!!! so it is like a vertical strip, routing is good i have given adequate spacing for them so it should be fine, i enjoyed building this pcb lol, I've been working this whole day on this lol, i thought of this project yesterday and i now i have created it's PCB, Building is FUN. After coming back home i might start CAD let's see my plan is finishing this till 15th July....
 
-- And yeah here are all the images: 
+- And yeah here are all the images:
+
+![Screenshot](Assets/schem.png)
+
+![Screenshot](Assets/pcbd.png)
+
+![Screenshot](Assets/pcb.png)
+
+![Screenshot](Assets/pcbb.png)
 
 **Total 8Hrs+**
 
@@ -50,6 +58,26 @@ created at: "2025-07-13"
 - SO yeah that was the whole process of me building the case for Lume V1, ofc timelines are a bit different like not everything happend text by text i took breaks did other stuff returned worked on this and all, now i have to work on the code for this project, i have to shift the deadline to one more day, my previous goal was to ship the project on 15th july like a hackathon but it is isn't possible building the whole code in one day is not much possible for me i hope for the best....
 
 - Here are all the images of building the CASE::
+
+![Screenshot](Assets/rcad.png)
+
+![Screenshot](Assets/rcad2.png)
+
+![Screenshot](Assets/rcad3.png)
+
+![Screenshot](Assets/rcad4.png)
+
+![Screenshot](Assets/rcad5.png)
+
+![Screenshot](Assets/ecad.png)
+
+![Screenshot](Assets/ecad2.png)
+
+![Screenshot](Assets/tcad3.png)
+
+![Screenshot](Assets/tcad.png)
+
+![Screenshot](Assets/bcad.png)
 
 - **Total 15Hrs+**
 
