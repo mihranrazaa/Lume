@@ -94,6 +94,8 @@ The step files for the keyboard are available in the CAD folder and also in the 
 
 - Add more support for different file types
 - More Reading features
+- Ability to transfer files via Wifi or Bluetooth 
+- Progress bar
 
 ---
 ## Extra Stuff
