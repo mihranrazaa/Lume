@@ -104,3 +104,4 @@ created at: "2025-07-13"
 **JULY 18**
 
 - Added more support for file types epub, pdf..
+- added more stuff in readme
