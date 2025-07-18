@@ -99,3 +99,8 @@ created at: "2025-07-13"
 ---
 
 - Making Readme and preparing for submission
+
+----
+**JULY 18**
+
+- Added more support for file types epub, pdf..
