@@ -23,6 +23,7 @@ Lume is a open source eBook Reader made for people who value freedom, simplicity
 - Joystick for smooth navigation
 - Reading files ofc
 - Offline-First
+- approx1 week battery life (on medium usage)
 
 ### Hardware Support
 
