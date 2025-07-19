@@ -86,6 +86,8 @@ The step files for the keyboard are available in the CAD folder and also in the 
 | Tactile push buttons  | 4        | 0.28USD     |                                                                                                                                                                                           |
 | PCB                   |          | approx10USD |                                                                                                                                                                                           |
 | UPS                   | 1        | 27USD       | [Available](https://hubtronics.in/ups-hat-c?search=ups%20hat%20)                                                                                                                          |
+* Forgot to add an SD Card in there my bad
+
 
 **Total ::  110-130USD**
 
